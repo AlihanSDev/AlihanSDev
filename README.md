@@ -16,6 +16,4 @@ I have experience with tools such as Python, pandas, numpy, scikit-learn, as wel
 </p>
 
 
-[![codewars](https://www.codewars.com/users/AlihanSDev/badges/large)](https://www.codewars.com/users/AlihanSDev)   
-
 
