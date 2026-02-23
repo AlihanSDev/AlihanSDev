@@ -1,12 +1,33 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alihan
 ==============================================================================================================================
 
-Data Engineering & Data Science
--------------------------------
+I am a developer specializing in building automated data solutions, processing complex datasets, and implementing machine learning models. I focus on turning raw, unstructured data into clean, actionable insights for business and research.
 
-I specialize in data preparation, cleaning, analysis, and applying machine learning techniques.
+---
 
-I have experience with tools such as Python, pandas, numpy, scikit-learn, as well as web scraping (BeautifulSoup, Selenium).
+### Core Expertise
+
+* **Data Engineering & Extraction:** Professional web scraping and automated data collection using Python, BeautifulSoup, and Selenium.
+* **Data Processing:** Extensive experience in data cleaning, transformation, and preparation (ETL) using Pandas and NumPy.
+* **Machine Learning:** Developing and applying predictive models and analysis techniques with Scikit-learn.
+* **Automation:** Building custom bots (Telegram/Discord) and integrating external APIs to streamline workflows.
+
+### Technical Stack
+
+* **Languages:** Python (Asyncio, OOP)
+* **Data Analysis:** Pandas, NumPy, Matplotlib
+* **Machine Learning:** Scikit-learn
+* **Web Scraping:** BeautifulSoup4, Selenium, Scrapy
+* **Tools & Platforms:** Git, SQL, REST APIs
+
+### Professional Focus
+
+I have hands-on experience in year-long data-cleaning projects, ensuring high data quality for further analysis. Currently, I am expanding my portfolio with end-to-end data pipelines and seeking freelance opportunities where efficiency and clean code are priorities.
+
+---
+
+**Contact Information:**
+* **Status:** Open for freelance projects and collaboration.
 
 ### Skills
 
